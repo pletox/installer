@@ -7,7 +7,7 @@ return [
      * Shared translations.
      *
      */
-    'title' => 'Laravel Installer',
+    'title' => 'Pletox Installer',
     'next' => 'Next Step',
     'finish' => 'Install',
 
@@ -18,7 +18,7 @@ return [
      *
      */
     'welcome' => [
-        'title'   => 'Welcome To The Installer',
+        'title'   => 'Welcome To The Pletox Installer',
         'message' => 'Welcome to the setup wizard.',
     ],
 
